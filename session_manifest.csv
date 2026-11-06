@@ -1,0 +1,59 @@
+session,subject,group,stimulant,caffeine,date,n_sessions_subject,day,eeg_fs_hz,visual_trials_behavior,visual_trials_eeg,pct_correct_all,pct_correct_focal,pct_correct_broad,notes
+JKSA018_XC,JKSA018,NT,off,yes,2017-05-25,1,1,4096,240,240,96.2,95.0,97.5,
+JKSA019_XX,JKSA019,NT,off,no,2017-05-31,1,1,2048,240,240,87.9,86.7,89.2,
+JKSA021_XC,JKSA021,NT,off,yes,2017-06-01,1,1,2048,240,240,93.3,91.7,95.0,
+JKSA022_XX,JKSA022,NT,off,no,2017-05-24,1,1,4096,240,240,96.7,95.0,98.3,
+JKSA023_XX,JKSA023,NT,off,no,2017-06-02,1,1,2048,240,240,96.2,94.2,98.3,
+JKSA025_MX,JKSA025,ADHD,on,no,2017-06-08,1,1,2048,240,240,96.7,95.8,97.5,
+JKSA026_MC,JKSA026,ADHD,on,yes,2017-06-12,1,1,2048,240,240,91.7,93.3,90.0,
+JKSA027_MC,JKSA027,ADHD,on,yes,2017-06-15,2,1,2048,240,240,97.5,96.7,98.3,
+JKSA027_XX,JKSA027,ADHD,off,no,2017-06-27,2,2,2048,240,240,89.6,91.7,87.5,Header/RESULTS subjID say JKSA035 (typo); date 6/27/17 matches JKSA027 visit 2.
+JKSA028_MC,JKSA028,ADHD,on,yes,2017-06-16,2,1,2048,240,240,84.6,85.0,84.2,
+JKSA028_XX,JKSA028,ADHD,off,no,2017-10-20,2,2,2048,240,240,96.2,95.0,97.5,
+JKSA029_MX,JKSA029,ADHD,on,no,2017-06-19,2,1,2048,240,240,75.8,72.5,79.2,
+JKSA029_XX,JKSA029,ADHD,off,no,2017-06-28,2,2,2048,192,192,59.4,66.7,52.1,File _2 stopped after 3 visual blocks (EEG and behavior agree): 192 visual trials total. Header/subjID say JKSA036 (typo).
+JKSA030_MX,JKSA030,ADHD,on,no,2017-06-30,2,2,4096,240,240,93.8,97.5,90.0,Header/subjID say JKSA037 (typo); date matches JKSA030 visit 2. Recorded at 4096 Hz.
+JKSA030_XX,JKSA030,ADHD,off,no,2017-06-20,2,1,2048,240,240,81.2,82.5,80.0,
+JKSA031_MC,JKSA031,ADHD,on,yes,2017-06-22,2,1,2048,240,240,90.8,91.7,90.0,"RESULTS _1 subjID is ""DEMO"" (typo)."
+JKSA031_XX,JKSA031,ADHD,off,no,2017-08-03,2,2,4096,240,240,95.4,96.7,94.2,
+JKSA032_MX,JKSA032,ADHD,on,no,2017-06-23,2,1,2048,240,240,96.2,94.2,98.3,BDFs are named JKSA032_1.bdf / JKSA032_2.bdf (missing _MX_); header dates match the MX session (6/23/17).
+JKSA032_XX,JKSA032,ADHD,off,no,2017-10-27,2,2,2048,240,240,92.1,93.3,90.8,
+JKSA034_MX,JKSA034,ADHD,on,no,2017-06-26,2,1,2048,240,240,85.0,89.2,80.8,
+JKSA034_XC,JKSA034,ADHD,off,yes,2017-10-27,2,2,2048,240,240,84.6,90.0,79.2,
+JKSA035_MX,JKSA035,ADHD,on,no,2017-12-08,1,1,2048,240,240,93.8,91.7,95.8,
+JKSA039_XC,JKSA039,NT,off,yes,2017-11-30,1,1,2048,240,240,95.8,97.5,94.2,
+JKSA040_MC,JKSA040,ADHD,on,yes,2017-12-05,1,1,2048,240,240,87.1,86.7,87.5,
+JKSA051_XC,JKSA051,NT,off,yes,2018-02-09,1,1,2048,240,240,91.7,90.8,92.5,
+JKSA053_XX,JKSA053,NT,off,no,2018-02-20,1,1,2048,240,240,82.1,93.3,70.8,
+JKSA055_XX,JKSA055,NT,off,no,2018-03-19,1,1,2048,240,240,95.0,94.2,95.8,
+JKSA057_XC,JKSA057,NT,off,yes,2018-02-27,1,1,2048,240,240,88.8,90.8,86.7,
+JKSA061_XX,JKSA061,NT,off,no,2018-03-22,1,1,2048,240,240,83.8,84.2,83.3,"Neurotypical; came twice only to finish part I (one session here). BDF channel labels have a ""1-"" prefix (handled by the reader)."
+JKSA063_XX,JKSA063,NT,off,no,2018-02-28,1,1,2048,240,240,83.3,89.2,77.5,
+JKSA064_XC,JKSA064,NT,off,yes,2018-02-22,1,1,2048,240,240,75.0,69.2,80.8,RESULTS _1 subjID says JKSA060 (typo).
+JKSA067_XX,JKSA067,NT,off,no,2018-02-23,1,1,2048,240,240,78.8,85.0,72.5,
+JKSA068_XX,JKSA068,ADHD,off,no,2018-03-02,1,1,2048,240,240,80.4,81.7,79.2,
+JKSA070_XX,JKSA070,NT,off,no,2018-03-15,1,1,2048,240,240,97.5,96.7,98.3,
+JKSA073_XX,JKSA073,ADHD,off,no,2018-04-13,1,1,2048,240,240,87.9,90.8,85.0,First minutes of file _1 are whole-head junk (~550 uV channel SD); flagged as BAD_gross by the pipeline.
+JKSA074_MC,JKSA074,ADHD,on,yes,2018-05-08,1,1,2048,240,240,89.2,93.3,85.0,"File _1 is half-length (only visual blocks recorded, no auditory); visual EEG is complete. Sheet says a 2nd visit (5/9/18) happened but no data here."
+JKSA075_XC,JKSA075,NT,off,yes,2018-08-23,1,1,2048,240,240,81.2,86.7,75.8,"BDF header says ""JKSA076_XX"" (typo); recorded 8/23/18 afternoon, JKSA076 was that morning."
+JKSA076_XX,JKSA076,NT,off,no,2018-08-23,1,1,2048,240,240,88.3,91.7,85.0,
+JKSA080_XX,JKSA080,NT,off,no,2018-12-17,1,1,2048,240,240,91.7,90.8,92.5,
+JKSA084_MX,JKSA084,ADHD,on,no,2018-10-03,2,1,2048,240,240,85.4,84.2,86.7,
+JKSA084_XX,JKSA084,ADHD,off,no,2018-10-10,2,2,2048,240,240,95.0,99.2,90.8,
+JKSA091_MC,JKSA091,ADHD,on,yes,2018-09-24,2,1,2048,240,240,70.8,73.3,68.3,"BDF header + RESULTS subjID say ""XC"" for the 9/24 session; spreadsheet (caffeine+meds on visit 1) supports file name MC."
+JKSA091_XC,JKSA091,ADHD,off,yes,2018-10-01,2,2,2048,240,240,69.6,84.2,55.0,"RESULTS subjID says ""MC"" for the 10/1 session (swapped label at runtime; file name is consistent with spreadsheet)."
+JKSA093_MC,JKSA093,ADHD,on,yes,2018-10-23,2,1,2048,240,195,87.1,86.7,87.5,"File _2 recording crashed (header nrec=-1): EEG has 76/120 visual trials, 75 usable (trial 76 has no stimulus trigger) -> 195 usable visual trials for the session; behavior has all 240."
+JKSA093_XX,JKSA093,ADHD,off,no,2018-10-30,2,2,2048,240,240,89.2,88.3,90.0,
+JKSA096_MC,JKSA096,ADHD,on,yes,2018-10-19,2,2,2048,240,240,91.2,93.3,89.2,"BDF header and RESULTS subjID say ""JKSA084_MC"" (typo at recording); date 10/19/18 matches JKSA096 visit 2."
+JKSA096_XC,JKSA096,ADHD,off,yes,2018-10-12,2,1,2048,240,240,67.9,70.0,65.8,
+JKSA098_MX,JKSA098,ADHD,on,no,2018-11-15,1,1,2048,240,240,74.6,80.8,68.3,
+JKSA100_MX,JKSA100,ADHD,on,no,2018-10-25,1,1,2048,240,240,82.5,78.3,86.7,"BDF header says ""JKSA101_MC"" and RESULTS subjID ""JKSA101_MX"" (typo); date 10/25/18 matches JKSA100."
+JKSA101_XC,JKSA101,NT,off,yes,2018-04-12,1,1,2048,240,240,97.9,98.3,97.5,
+JKSA102_XX,JKSA102,ADHD,off,no,2018-10-24,1,1,2048,240,240,95.8,97.5,94.2,
+JKSA103_MX,JKSA103,ADHD,on,no,2018-12-19,2,2,2048,240,240,97.9,97.5,98.3,
+JKSA103_XX,JKSA103,ADHD,off,no,2018-12-17,2,1,2048,240,240,91.7,88.3,95.0,
+JKSA105_MX,JKSA105,ADHD,on,no,2019-02-26,2,2,2048,240,240,98.8,100.0,97.5,
+JKSA105_XX,JKSA105,ADHD,off,no,2019-02-19,2,1,2048,240,240,94.6,94.2,95.0,"File _1 recording not closed properly (BDF header nrec=-1; ~1462 s); visual 120/120 complete, auditory 40/120. Readers that trust the header may choke."
+JKSA110_XX,JKSA110,ADHD,off,no,2019-02-06,1,1,2048,240,240,85.8,88.3,83.3,
+JKSA112_MX,JKSA112,ADHD,on,no,2019-02-18,1,1,2048,240,240,86.2,83.3,89.2,
+JKSA200_XC,JKSA200,ADHD?,off,yes,2018-08-16,1,1,2048,240,240,81.2,89.2,73.3,"Group unclear: BDFs sit in RawData root; ""Current State"" sheet says ADHD=1, ""Identity Data"" sheet says ADHD=0. Needs a decision. EXCLUDED from analysis for now."
